@@ -10,4 +10,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 ## Output:
 - `simple interest = (p * t * r) / 100`
 
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
